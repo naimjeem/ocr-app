@@ -1,0 +1,15 @@
+{
+  "name": "ocr-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naim Jeem",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.85.0",
+    "tesseract.js": "^1.0.10"
+  }
+}
